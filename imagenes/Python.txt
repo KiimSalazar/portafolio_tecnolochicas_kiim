@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Python</title>
+<bg color="#3f889e">
+<center><h1> <font color="#c6588d"><marquee>PYTHON</MARQUEE></H1></CENTER>
+<script> Alert("BIENVENIDO A CONCEPTOS BASICOS DE PYTHON") </script>
+</head>
+<body>
+<img src="py.gif" cold="200">
+<p>
